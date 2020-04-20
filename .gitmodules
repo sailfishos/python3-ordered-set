@@ -1,0 +1,3 @@
+[submodule "ordered-set"]
+	path = ordered-set
+	url = https://github.com/LuminosoInsight/ordered-set.git
