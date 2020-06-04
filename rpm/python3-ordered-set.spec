@@ -25,6 +25,6 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root,-)
-%{python3_sitearch}/ordered_set.py
-%{python3_sitearch}/ordered_set-*.egg-info
-%{python3_sitearch}/__pycache__/*
+%{python3_sitelib}/ordered_set.py
+%{python3_sitelib}/ordered_set-*.egg-info
+%{python3_sitelib}/__pycache__/*
