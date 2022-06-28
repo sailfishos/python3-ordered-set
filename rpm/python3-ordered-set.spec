@@ -3,7 +3,7 @@ Summary:    Mutable data structure that is a hybrid of a list and a set
 Version:    3.1
 Release:    1
 License:    MIT
-URL:        https://pypi.org/project/ordered-set/
+URL:        https://github.com/sailfishos/python3-ordered-set
 BuildArch:  noarch
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   python3-base
